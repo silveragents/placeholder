@@ -3,7 +3,7 @@ import { ThemeProvider } from '@/hooks/use-theme'
 
 function App() {
   return (
-    <ThemeProvider defaultTheme="light" storageKey="silver-ui-theme">
+    <ThemeProvider defaultTheme="dark" storageKey="silver-ui-theme">
       <Landing />
     </ThemeProvider>
   )
