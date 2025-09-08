@@ -100,14 +100,14 @@ export default function Landing() {
                 <div className="max-w-4xl mx-auto text-center">
                     <div className="animate-fade-in-up">
                         <h1 className="text-hero mb-4 font-medium tracking-tight">
-                            agents so good
+                            coming soon ...
                             <br />
-                            <TypewriterText />
+                            {/* <TypewriterText /> */}
                         </h1>
 
-                        <h2 className="text-sub mb-12 max-w-lg mx-auto dark:text-white">
+                        {/* <h2 className="text-sub mb-12 max-w-lg mx-auto dark:text-white">
                             AI-powered portfolio analysis and market insights for modern investors
-                        </h2>
+                        </h2> */}
                     </div>
                 </div>
             </main>
